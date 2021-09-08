@@ -1,0 +1,4 @@
+/      - web gerber viewer with choose file dialog (only GET)
+/parse - convert gerber file to json object (only POST)
+/draw  - convert gerber/json file to jpg image (only POST)
+/view  - get web page with interactive preview for parsed as JSON gerber file (only POST)
